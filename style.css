@@ -1,0 +1,38 @@
+
+body {
+    text-align: center;
+    margin-top: 10em;
+}
+#num1{
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid rgb(187, 182, 182);
+    font-size: medium;
+    color: black;
+    outline: none;
+    width: 15em;    
+    margin-bottom: 10px;
+}
+
+#num2{
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid rgb(187, 182, 182);
+    font-size: medium;
+    color: black;
+    outline: none;
+    width: 15em;
+    margin-bottom: 10px;
+}
+
+#btn{
+    padding: 10px;
+    color: white;
+    background-color: greenyellow;
+    border-radius: 5px;
+    font-size: medium;
+    width: 80px;
+    outline: none;
+    border: 1px solid black;
+    font-weight: bold;
+}
